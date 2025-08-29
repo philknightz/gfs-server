@@ -1,0 +1,2147 @@
+{
+    "result": true,
+    "data": {
+        "text": "beach, vietnamese_restaurant, tourist_attraction",
+        "nearbyPlaces": {
+            "beach": [
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0623766,
+                            "lng": 108.1917233
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0637229802915,
+                                "lng": 108.1931580302915
+                            },
+                            "southwest": {
+                                "lat": 16.0610250197085,
+                                "lng": 108.1904600697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "Khách Sạn Đại Long",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4608,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/111736748426755205249\">Khách Sạn Đại Long</a>"
+                            ],
+                            "photo_reference": "ATKogpeUHGpg6ccTrMmRa6fFR0ydoOVqezWHZOiEhvApvZk8bIkqy3GV8fZ9thRYj20C8POnJd3gSX924tCmUC1lpaFje6K0AEj8aSShJ6t-fJ45LKnOMJr8S8TAskBTtT1Q-NZUkbCCwE3ZaeXQ6U1z5TEeGlCYA7dk2ZtmOd49qcNmtzt6eJ3OzVktfm7ZI_b6lleFCVCZPhavStgnWWKw-QU1pRfS4-v_woW_ahBH4b0XyCksRbKdPCQSVLPw7F5zU-gBrtxaeFRdQ26aQnOVLKRqkgJVx1aS2OBMOEfHAFz7uIS_o1fUrOaiWei7DU7u1c3LUsq98rk",
+                            "width": 3456
+                        }
+                    ],
+                    "place_id": "ChIJWVl1NFUYQjERl2v9iNV-6F8",
+                    "plus_code": {
+                        "compound_code": "356R+XM Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C356R+XM"
+                    },
+                    "rating": 4.1,
+                    "reference": "ChIJWVl1NFUYQjERl2v9iNV-6F8",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 203,
+                    "vicinity": "190-192-194 Hà Huy Tập, Thanh Khê Đông"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0524174,
+                            "lng": 108.2102646
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0538179302915,
+                                "lng": 108.2116481302915
+                            },
+                            "southwest": {
+                                "lat": 16.0511199697085,
+                                "lng": 108.2089501697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "Bamboo Hotel",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4032,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/103304380016659288713\">Đăng Báo VFC</a>"
+                            ],
+                            "photo_reference": "ATKogpcNkwWawu9cplsG91UWPiwmHdG3AW6yTm2orunkX6M_Oq94NWuqbKywDUP7LQf9otiCnhA4rC6GccYt2FKoLfFumq60ovYpphgyj7PwKjt4JhvD-YUaesDIylVNdLKMODYroHWJlrDt6-njvgCYfn9CafFC4g_WiBClcdKL2nnx8VlRGZOsp6U1BjZduxYtdkXfTd4j7nWNL-ILJjFCrIA9Y6MWwyxzQlApE9uOL0Yxhr6-3zoVy0B1zCWpUa0EsDC5ryI670cLdK-F6y9jwDjuKMQwz1_iGJ5JUMNiViaypfKg_vrlqfrgxBNRQYWTvYSKVhmCGIWHYxi33tjKpXfDW7zRmlabd88fKw0BvtKazWjVpz21z1FjXsKSheoXEKkNp-TB1J93W7_eU7lT9d6h3l3GIoDFbs2MLX16Lh22Zr3tevbBvfu2mw5Grw3GbaVsK9fDXUXyjgE4vTD9_Z3J3hs-LDnDemHS_lDPDV_OjLnX0oZufB-5b4d4CWD5j9RfjUwgvryp8yPe0WlCDNqGxzkSaws3f4U8l_dGXTTWQ5yB6y0ZMdx8r3fPYZvQ3GisHLTd8nsF7U95sk1ra9gzWwZ6UNIvIzAJ-EC0hIpAn5rEwvTrCP8fSxAmrfIPu1WH5w",
+                            "width": 3024
+                        }
+                    ],
+                    "place_id": "ChIJK8zax7kZQjERCiWaW3KLyns",
+                    "plus_code": {
+                        "compound_code": "3626+X4 Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3626+X4"
+                    },
+                    "rating": 4.1,
+                    "reference": "ChIJK8zax7kZQjERCiWaW3KLyns",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 197,
+                    "vicinity": "418 Đường Nguyễn Tri Phương"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0655035,
+                            "lng": 108.2012611
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0669057302915,
+                                "lng": 108.2026063302915
+                            },
+                            "southwest": {
+                                "lat": 16.0642077697085,
+                                "lng": 108.1999083697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "OYO 265 An Thinh Loc",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 480,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/105308650230759400671\">Trương Xuân Thành</a>"
+                            ],
+                            "photo_reference": "ATKogpd142kdAT7vMmhuCsZVkBnIsmchrNQCXPJIfrwOLbEY5Is7NlGDeLRPCBoL-BBbUpPtIuc2nX1yoC2kpURo55dPHsaSoIJLtgFZXYYjGZX1iqecC3PFQY1HR8jUsW_w7hy8pK8Z1VA8VRCbS6cwkbfKLZDeP0FXYGQVDCNteqGufmJL8rvNA3jSue1vp7kBwMKP2V-cx0whwh744nsqzijt8ECgDvsldgT3zrEemSJOMxO9Vs1zzHP9Sv03_jELD4wjle6jgis-0LXIpViPyai7mETLFmy1PP70ujFFZwOfiGUTayHWAERoXMNuH4itecyyCB3-25pCKSAIfQceEYAjtumHezG3bJZzHftm17qknzAAQEOFNlsGm-spG4AiBUU-G-EE0IkL5L9agBPKgjbpeMWbF4dJkrfmfgYXu3328uXVm6pPcbbFjmTwRQDTWR79LG81MYZcjMJ67J09w8dvI1zvD3VTBXmo3g6TbrKN22jRU72Xu0gbDLvTRoOdVprZdvpweymkD6x828rEq-Omu3qh7JQ7ged7-IPtbs5rQEhT9ydgQ-5ZhopRJDJzb_6i-zZktkNoM-S6SgfplIJIllLPgYDyotH3N9Q1LQ42F6k8t8qqa9KBW6TI5_4aKmy37Q",
+                            "width": 640
+                        }
+                    ],
+                    "place_id": "ChIJ1Sqp6YQZQjERMaeRJ8djNTc",
+                    "plus_code": {
+                        "compound_code": "3682+6G Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3682+6G"
+                    },
+                    "rating": 3.3,
+                    "reference": "ChIJ1Sqp6YQZQjERMaeRJ8djNTc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 45,
+                    "vicinity": "57 Điện Biên Phủ, Chính Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0440841,
+                            "lng": 108.2097487
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0454150802915,
+                                "lng": 108.2112236802915
+                            },
+                            "southwest": {
+                                "lat": 16.0427171197085,
+                                "lng": 108.2085257197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                    "name": "Nhà Thờ Giáo Xứ Hoà Cường",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1153,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/117091937823880650178\">Nhà Thờ Giáo Xứ Hoà Cường</a>"
+                            ],
+                            "photo_reference": "ATKogpckpeJmWRtHJERZakXJosrA7ANY_vHRvZsvLu_wPnHRRYDOjvHX1YbvSQ0eCIpOodh4ocKHv318VWgJLGYDG-0lARRxcWutE26E7QH6d0yEz7Fx0qh3QsxpgnPNoLrMa6JjTAMbyZvngxZefN8WHErcrzAcVUrNoHMMFtdOW3sGxsmcGkTKQHopcAaufbYepbpsUVzcCzByWJvE_HPDRJmz14RuV_hcCaRNAr8zeDQmJDZZuYJEad-pytrkaDyNB4mWSqU6Rj3skrhEZYKha8lXr4-2jtTI4HVIPQd5kl1--js4jVDimp1tUwUgs2E_6-ov64zI3dA",
+                            "width": 2048
+                        }
+                    ],
+                    "place_id": "ChIJBUGlQb4ZQjERT8HjiqufUcc",
+                    "plus_code": {
+                        "compound_code": "26V5+JV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C26V5+JV"
+                    },
+                    "rating": 4.7,
+                    "reference": "ChIJBUGlQb4ZQjERT8HjiqufUcc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "tourist_attraction",
+                        "church",
+                        "place_of_worship",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 247,
+                    "vicinity": "150 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0515234,
+                            "lng": 108.2114104
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05273963029151,
+                                "lng": 108.2132146802915
+                            },
+                            "southwest": {
+                                "lat": 16.0500416697085,
+                                "lng": 108.2105167197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "King Garden Hotel Da Nang",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1920,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/117750095824065357793\">King Garden Hotel Da Nang</a>"
+                            ],
+                            "photo_reference": "ATKogpfso4DSoDx-ykDOHoLMJ-ViObdfB2uU0UrJq7fYYvRHi_wdC4oIBEwmeoJsfMSi9GHOb4rd95VpcHwTM_vbwC4q0xQbF0LssdYYQtkET5tAspw72MLKppTMII4xCeYZPMnkg6XaG3XL4VAr0ZAkHjyd9YBVXb1XRJ9X65CzgZyzzdHIsW6T1k1w0u9yjBGs0J3TOOfbz5SylzGKnJZdsKF7I04nsdUcMau-wUEdmKEBcW04NYRFOL1DHQp5Be7n25cbPfgtEcUwaVWET8fJkAyw9738gbOYDQ7WzKDczpO4QOy-Ezyi4fXGnSxzsiEdbafKydu14HM",
+                            "width": 2880
+                        }
+                    ],
+                    "place_id": "ChIJP_viRLgZQjERu4_Cb1lN_1Q",
+                    "plus_code": {
+                        "compound_code": "3626+JH Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3626+JH"
+                    },
+                    "rating": 4.2,
+                    "reference": "ChIJP_viRLgZQjERu4_Cb1lN_1Q",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 67,
+                    "vicinity": "456A Đường Nguyễn Tri Phương, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0611226,
+                            "lng": 108.210807
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.06248098029151,
+                                "lng": 108.2122249302915
+                            },
+                            "southwest": {
+                                "lat": 16.0597830197085,
+                                "lng": 108.2095269697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "MEGA Technology",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4032,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/110533356443249169278\">Tuan Huynh</a>"
+                            ],
+                            "photo_reference": "ATKogpeaq9NwjRTa8umTACnVI6xqCuj8hAyZu3kW2Lc-wnlDwNd71YCeuVSYF-ziaUxBn-fPzg0crTdp-VN_gGkHzfBsynZIc2uOJMysBWqR9w06RhUwyD7WxXJO4BHmOeVHRdfhWK9ZE5kEWDq0k5zyEWZM0oFVXXHOLjtANlCw9CG899MyMWnu9MxPvVkx7F-9raHbveNUtRuyd3TNp2iYAo2-SGmug01quCwFz4G-4MaCpjSXj7k7kDj3kZ91LfBalCLHRe-PYQtVM_EVBTSWezHvv9e8GBrEPXH9eS4gsDrxEt6lAOG5KozpAX4dqu85ByTMMfySNhksrU-gl53-cqcDuySPbjQOOLPxggYhD0n4ylkYHHnacJHktkgxSeDu9OW-9BTNAim1JxfvWGXZ0JrzuDFVmKXLgBNuv2H018oer52AMmEqHvPIawMzkdgM57i47ZblPeCQsPyeWfF3o2s8Vi3Le45Fj1U5YDRtctKxAMmhxU1kZfeF5aKzIpLqzAPezP7xVIbjTe4klmcieqUd8c_K2gnaaPN8vk6d-ReFddmHiI4QUyK0UTTFDIH8_q-54WIV1vUeKWADVxuzbUcDb3IqX1XUDflmxcN_EIBy0uqgcJIxKNpM-CFUGByj3esBcvjw",
+                            "width": 3024
+                        }
+                    ],
+                    "place_id": "ChIJWXqoGbQZQjERXGq0MXhAZTE",
+                    "plus_code": {
+                        "compound_code": "3666+C8 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3666+C8"
+                    },
+                    "rating": 4.5,
+                    "reference": "ChIJWXqoGbQZQjERXGq0MXhAZTE",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "electronics_store",
+                        "point_of_interest",
+                        "store",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 372,
+                    "vicinity": "130 Hàm Nghi, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.055376,
+                            "lng": 108.2086586
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0566892302915,
+                                "lng": 108.2099227302915
+                            },
+                            "southwest": {
+                                "lat": 16.0539912697085,
+                                "lng": 108.2072247697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Công ty TNHH Nha khoa Rạng Ngời",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 3024,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/104488134683538673547\">Le Hang</a>"
+                            ],
+                            "photo_reference": "ATKogpfH0xdhUtkXFsVwLQ545sS0nXPsjO3W8vCkCQbEcMmbxJqdExPtMZuxVxXC9_LxuzigTWGcrN0CBEKGARNE1iFS4k0PESfKszVIswyLj3fTPcTnNo4X89LWvcXavrKpqvJhaRiiH9S2AjV8-73F-FZkDlO68_ghlV6lcbN_65YH8e9dIFzwdCzdvvJzA7dZDCVrnuwttzAzjB0kCuvqV2IIHxGoI16JTTEkm38zSM5qvcGVvEENmI2HtuR5jgBFnS7vCXdGdZD72qnqM2LcQx9q48rnrPq8mvJknqpTS8RGhnGiC9EhhxoNrTv428IrgtSvrmvG8OXp8eerDmPcd42Pmrk9EwACk9XP2wAqdR2aEs7I4dw7_mE0WMXiBpC1yiGK5EJBkxAg84wbyVA0-_BaWCoiXcTxgkMS-R8O1amSzfKZVxa_FIWmQnbBgNGTSZZPr87zheACuJynaG9Xg-8bHYa4b-fpvVxeFKjDTF4_oL-GvgYvFd7VIV7AlQ-D6b3kfHBjJSJv0BcfLbnbDt8j5Tewr_zY3OqIcE43R6G7vfiL2Bjq3DHTg0KU6dFK3eQi43tQLuAXs8evfPZ-wIE-NzK-M5Ur3suQ4pIQRVZirsyiKtN4gjLfvg44tK0dxS--7n4A",
+                            "width": 4032
+                        }
+                    ],
+                    "place_id": "ChIJ86GUzLAZQjERV3wvEAkXwT4",
+                    "plus_code": {
+                        "compound_code": "3645+5F Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+5F"
+                    },
+                    "rating": 4.1,
+                    "reference": "ChIJ86GUzLAZQjERV3wvEAkXwT4",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "health",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 91,
+                    "vicinity": "29 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0553013,
+                            "lng": 108.2086607
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0566201802915,
+                                "lng": 108.2099382302915
+                            },
+                            "southwest": {
+                                "lat": 16.0539222197085,
+                                "lng": 108.2072402697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+                    "icon_background_color": "#FF9E67",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+                    "name": "Cafe VIP Vườn",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 3024,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/117024570654479050540\">Duong Duy Dung</a>"
+                            ],
+                            "photo_reference": "ATKogpck_ht6Em52Qv1B3UtyQpWTiPF50Agv44h5mTluoh3j77-OTCQfVu2EVrh2n9KzDHxyskrJXcVT5cMI_pqRXbuL8GZjX6AP2Tcv177R9M5ffmawgCoqrD1Bz5w6cfIT8fBz0ePBAOuX6UnHY4QYNMC3LdV5lWPHVCv4Uo6RcNzvPj23jYNjyjVq8YJ4Cv9ZzbgD0PnsjEsNrcrdD8UlTxvB7YRXOEtD-sftEXg1SI4qjeKh7hwnSR-dQAcRwPVysOKSPgnAH46lDAfNJGbGHNpDBaIUMmZLW37gCkG5p5ctizU3jzdOqrxHvBOSppwakdOWj9bLRo4cIBTAsI8vh35ZVXNAc69yrKc14uo3kx7oZEnJCXTr9sHU2TlhTgIsVRDwXnx_H-GmrszYn8DSylelIn8HY09KXhniofIYz2IwyUb_ner6wx1j_s_Fsu7cg5YECA-osLam5pltGo35y8_gTklFChfirKz4oK1R8nXj-Wm5FSq219TsVbxGP11bGSwWujbNSoqSe7gX1-6ZjlgctYccSQ6O1angph_aAk_bZNAkkYlFdfGgQJKmxuKO_NJWLoP4gxG1OFncrD56hR72S3x3zNC8Ue08qEjYbwZvB9m5lvdN8L0lOVNIdLXaQk0prQ",
+                            "width": 4032
+                        }
+                    ],
+                    "place_id": "ChIJPQw247sZQjERXlCopH3mlEc",
+                    "plus_code": {
+                        "compound_code": "3645+4F Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+4F"
+                    },
+                    "price_level": 2,
+                    "rating": 3.8,
+                    "reference": "ChIJPQw247sZQjERXlCopH3mlEc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "cafe",
+                        "food",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 461,
+                    "vicinity": "34 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0517795,
+                            "lng": 108.2092298
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0531220802915,
+                                "lng": 108.2105333802915
+                            },
+                            "southwest": {
+                                "lat": 16.0504241197085,
+                                "lng": 108.2078354197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "TRUNG TÂM HỔ TRỢ VÀ PHÁT TRIỂN CÔNG NGHỆ NAM VIỆT LUẬT",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 2232,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/116781917492290089641\">Xuân Dũng Vlogs</a>"
+                            ],
+                            "photo_reference": "ATKogpdDxMbw21qisru-JWq3DvTmIP7lhLAIIN_qvEPU60f-lnwmrbsQvGzwp7d9eYURWue4cSBQtAByzM5SaFDFH4_7JRQo7NXYRXm9FpxIBaRQZgme4cRECwXILYHFMrNHmCVV73CIcYVcx8R2i_e4zZo-yyllYS4J2tbVgrv_wnpcfkeTD1wCrho0zPzP7oX4g2jfXMyY5geC-nkCRxYV-kTOlvOiTwjXl3L2pjQvnywrfvPvGsD7ULN9kvogEr1r3FIqYl6o3Mhs5IXO5unHCZcwlnN955zI0cVDOy3tKS_gcevlUWE89VleOUZXZE5zWRpkVz75c27tqC_bfyjpcM3ovBV7GwC8xMA08aPzSPWNucgm5nNsE1v04-LwnNMr7xcbuwoXX9u1pUwIcU2UgXA0H32z1G9fpzNNrgz23Z8ZoioZXipPjAJLva0_AizCdybKjo5mjgqZGd35ZQlar4GNROZIuflCyjjqp_QzixZlAq89ZmCkthNKSiUIi4wRZ0ciAWzJiiH6gRNT_QGddwRiRBP_ccZYxn5t_DsKQ3SXYymiZzpsEICODN0Ej6UKcs1EM-_TxUP7PykJRUDm3wglWCaWWM0I68bSQr0CNjMTM0qXwKGrO0amoTfjY4NOH4XC7Q",
+                            "width": 3968
+                        }
+                    ],
+                    "place_id": "ChIJW4ekkLkZQjERyHcnavTVNn8",
+                    "plus_code": {
+                        "compound_code": "3625+PM Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3625+PM"
+                    },
+                    "rating": 2.5,
+                    "reference": "ChIJW4ekkLkZQjERyHcnavTVNn8",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 8,
+                    "vicinity": "105 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0568188,
+                            "lng": 108.2076285
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05815843029151,
+                                "lng": 108.2089287802915
+                            },
+                            "southwest": {
+                                "lat": 16.0554604697085,
+                                "lng": 108.2062308197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "Bỏ",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 720,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/103484893239571635435\">Thi Hong Le Huynh</a>"
+                            ],
+                            "photo_reference": "ATKogpfC-IATViDfkxhYHZYMMyUn6BREsSKbledu7ZNai8bBI4kvjo9cvDW5QEZSkrcrsn9rPmlbETy6zmMwUaJvja40FYLz-UjK8YdfcfDD0n2wx3KF1txkIb3O7HtOQD8fK-umR-uFJ-1oSzzfSgefJaKlgS7FkSfNQV2eSn_onjB1ftxgdiAIvNfBzOsyt9puetxBgaLghop61RoKBOmr-LIsr_jURROGBdmRoq9rpIYn6xnxbWF3-8_ZUdDOagg8orYfwCzU0ifuT69mu4N52hO0t9g6vHJIkCL9Af8_bCi9wQax8owS_gz-bdyfOgHsCdyH0wgcD8FPwhvuEcogjmaQ1cxskuNOtdEPV94pAdf6X8Q40Lh014VcGbaO_smFe-Xa8nQtXEayzfirF7YSeAKoFGl5Em8XjmoLug-3R-jMw61Da1dGSntSfBjLLsz7X0x_ykB50BatiRIwmH_96KOphE82EqKqeUvypxdL2IntiytSGRrfAqB2SeEI53EjpwlzgW9vb6Ykv0vy9Cbp2eBMnmUdtZOJWq6yqrBl1t_f-ElxuWUwL2o52vfZIy0kihBDeOievtUozsOgLSgCvZwis9GpsXtim4psP9BJiancI3a-iEqZ_SdUoabhfHpOmf9uxg",
+                            "width": 960
+                        }
+                    ],
+                    "place_id": "ChIJHUNyKbcZQjERGlUejzop58I",
+                    "plus_code": {
+                        "compound_code": "3645+P3 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+P3"
+                    },
+                    "rating": 2.8,
+                    "reference": "ChIJHUNyKbcZQjERGlUejzop58I",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "electronics_store",
+                        "point_of_interest",
+                        "store",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 29,
+                    "vicinity": "152 Hàm Nghi, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0595999,
+                            "lng": 108.2070413
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.06097813029151,
+                                "lng": 108.2084905802915
+                            },
+                            "southwest": {
+                                "lat": 16.0582801697085,
+                                "lng": 108.2057926197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Chi nhánh Skypec khu vực Miền Trung",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 295,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/101711208304527043589\">Chi nhánh Skypec khu vực Miền Trung</a>"
+                            ],
+                            "photo_reference": "ATKogpcnQNKEq7bfiiPQeFp3rMP_5sIHyxgfg8F6QhDoKluCfhkPaPyqFAXLHnU0K03RuGX8WOu-hrIYVWV6dj3hvPuymwuUV58TGEkxTN5psw4LZqzP5u4etF0LzEe1aR_kmqwVOB4t-0rjkmsxZEujW_lmgrPEW38csGoulQFYe7WvD-z2mkIINqTWUQVyHNIg8Er_CjTLCmwkoPu64zcYyTZUH6qxVoRpMerABiichmCH48aeuBBuNCupgQKcJNwTVCi3Xrt_7DBsY_85GqR9E2ieCQSHinfGnJ376j0fCOJfxTBD7FjIxk1tQM2dJoXUFNLccc2dMXk",
+                            "width": 628
+                        }
+                    ],
+                    "place_id": "ChIJp6mlWLEZQjERXCVgFNwuQUk",
+                    "plus_code": {
+                        "compound_code": "3654+RR Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3654+RR"
+                    },
+                    "rating": 4.7,
+                    "reference": "ChIJp6mlWLEZQjERXCVgFNwuQUk",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 7,
+                    "vicinity": "348 Đường Nguyễn Văn Linh, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0598851,
+                            "lng": 108.2053559
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0612610802915,
+                                "lng": 108.2067648802915
+                            },
+                            "southwest": {
+                                "lat": 16.0585631197085,
+                                "lng": 108.2040669197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+                    "icon_background_color": "#FF9E67",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+                    "name": "Nhà Hàng Cơm Niêu Hồng Phúc",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4912,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/105328425066026856645\">cơm niêu Hồng Phúc (Nguyễn Tri Phương)</a>"
+                            ],
+                            "photo_reference": "ATKogpcc3nKgB2Jf48OLhZalb9uY__hO8YGXKefz6ROzu3P9qmD74vbTEzYibrWHVe8cczRhYLu9yRmUdIcSNAXZcQCr4Pye1KAbAeFpTPxpTmJ6oXmdlTJY4wtlza_ki9iYZ9wQMU9bRrpxtLLIPcfcIIAeXnt5Q-fLLeZUG5YGX46z9kaVXPsSNT5TdmqXhp8CLQhTUmOyc7P3JIeEv2LVbZro9JwFv2AEbnUbL9h297GNmY3F5s2GQQg1auF9sdxBlnM2PUxRXhvCPCmftJN2_zKMaAomv3ub1ZhuJSP_U8maefRDPwAltITTX2wpvhj9DBEfuf1Us7E",
+                            "width": 7360
+                        }
+                    ],
+                    "place_id": "ChIJAYkYfLEZQjEReED6J_FH7yg",
+                    "plus_code": {
+                        "compound_code": "3654+X4 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3654+X4"
+                    },
+                    "price_level": 2,
+                    "rating": 3.7,
+                    "reference": "ChIJAYkYfLEZQjEReED6J_FH7yg",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "restaurant",
+                        "food",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 1182,
+                    "vicinity": "166 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0568179,
+                            "lng": 108.2069352
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0581594802915,
+                                "lng": 108.2082689302915
+                            },
+                            "southwest": {
+                                "lat": 16.0554615197085,
+                                "lng": 108.2055709697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Go On Group",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "place_id": "ChIJE8tS3GIXQjERTxoxcBY9wpc",
+                    "plus_code": {
+                        "compound_code": "3644+PQ Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3644+PQ"
+                    },
+                    "rating": 2.8,
+                    "reference": "ChIJE8tS3GIXQjERTxoxcBY9wpc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 4,
+                    "vicinity": "19 Đường Nguyễn Tri Phương, Bình Thuận"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0601077,
+                            "lng": 108.2052221
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.06148818029151,
+                                "lng": 108.2066465302915
+                            },
+                            "southwest": {
+                                "lat": 16.0587902197085,
+                                "lng": 108.2039485697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Công ty TNHH TM DV Mỹ thuật Khải Hoàn",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 452,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/100196495819668541644\">Công ty TNHH TM DV Mỹ Thuật Khải Hoàn</a>"
+                            ],
+                            "photo_reference": "ATKogpegLi9MEXNJEgsUuXGPYyWCybatXNpZLDGtnEV39fWeXlPYH0VGiuAq29u_JSqooX85n2JHJ-qArbBo4VgHwnZF2XSc0z0JbdCouPnPDrnTd5dBEpDV3-2CEHEF3lgrvCpq0KKaibo8XvvU074xuvgYayIv1NlOvjjLR-jaXODsIBQ5FjoOlupjH5iez4U3XbUYrGSspjIF4VsVrGIDVfZY0FbFoQWGxEhAwBFkYGLPy6qqxVWG_Z49bk6PwhMO20RhIGAaW7Q98KladtqCFkeYJH-aw6ej629pTME2VZhcL3tBinfcMSYNg2vsG9LIFs2eoZzxiYQ",
+                            "width": 640
+                        }
+                    ],
+                    "place_id": "ChIJiXCj1bMZQjERpsLNninE7ns",
+                    "plus_code": {
+                        "compound_code": "3664+23 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3664+23"
+                    },
+                    "rating": 4,
+                    "reference": "ChIJiXCj1bMZQjERpsLNninE7ns",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "general_contractor",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 2,
+                    "vicinity": "162 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0536772,
+                            "lng": 108.2097399
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0550353302915,
+                                "lng": 108.2111470802915
+                            },
+                            "southwest": {
+                                "lat": 16.0523373697085,
+                                "lng": 108.2084491197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "Cửa Hàng Tiến Dương",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 2988,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/105491138651310684694\">Andy Dao</a>"
+                            ],
+                            "photo_reference": "ATKogpdOUsIx9_hsUMRLGxLLivcgDsyQZYSN4z6-ZSNRKObJxPj655F364dvM4VzxZFHcvUyY4FFqfPg8zXeX4WCUi9Nu0bw0G5VgLATKcy9mb9a1O52TE2PdtnMf4ZuzgGgFawdHxuRfTYEuvtMl_rXcRKaZxl7ThFhlBEc6ihbsFbzTcEdJFL0SKETHdXPlZPrG-yW5bcui7wtvNYtuMe-8H_xFD3hHgSdJFO-J9-PXlG_O7tz157yr9So6SqTBQacojQ96owysadHbOP5lt_Y0VE0h3BsNPRQNAMJXKTg4jZn24F0rwUSjRvyBgbQC7Gu1hXlbIb9PXgbxfsNJc4fqcyrz4Tr7SA4N7_bX9vgmyrmLPhNRT2evNd9imsj5pxNova5jvekLhWko3IU37_C-r6NFWmHLLxwoWdU3wtbyNItvFGdXKNhR-gGigTcj4cpSsX-2dh12KV4jpAgGXEPf8p5AgMr8W0YMHcpI5TnzeMoo2I2fMvul-P2lLx1o_DSktNf61qr_DncbngUxxkIqYNamjuj1dOiIKoViRtX2mpGXx5_lpFsmgWnMs70O1ZqMF1_XXQNjnEEgnrKAlCRHg_43Si_rBvDknFoSsJ0iZLnaN6PYNFHMtrtXIaJqRfudaurpQ",
+                            "width": 5312
+                        }
+                    ],
+                    "place_id": "ChIJi25h37kZQjERgyhQ-Lzgwgs",
+                    "plus_code": {
+                        "compound_code": "3635+FV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3635+FV"
+                    },
+                    "rating": 4.3,
+                    "reference": "ChIJi25h37kZQjERgyhQ-Lzgwgs",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "store",
+                        "grocery_or_supermarket",
+                        "food",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 6,
+                    "vicinity": "406 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0521561,
+                            "lng": 108.2070344
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0535102802915,
+                                "lng": 108.2084259802915
+                            },
+                            "southwest": {
+                                "lat": 16.05081231970849,
+                                "lng": 108.2057280197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "DN Quảng Cáo & TTNT Lê Nguyễn",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1342,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/116934970612640078728\">DN Quảng Cáo &amp; TTNT Lê Nguyễn</a>"
+                            ],
+                            "photo_reference": "ATKogpd5sqTxZfv_zFpCGsY-E2pHv31PhP1JIOndIx5apGLoUOrRahOUHecHj2G_TUCeRRvZqjXLIvwOd01n-ZQXvRNtCtBDkFUsUEJRUZBIFIePvBCkXd1wRC6jK7HrSfkicLI8ExO5izHTyTCxbHI8XWhh8BErbDJdk2ZMIp9-5J35pHauWNcu4UTJc5rrdlTtXDQsL5poWqQAtVHDDBT_W9dWq2JgjF5HeUz8thD7qEOyhZx1ZePjC2Tw2z1gal8frf3fOzFShRe27KMeCbJlZFVItrl9ycRHIlp2naAJBwaBeTrL7cgROwqksr8bkgHEe6zWGWi48dY",
+                            "width": 2566
+                        }
+                    ],
+                    "place_id": "ChIJF2Dgfv8YQjERfDtZ8bjXv_U",
+                    "plus_code": {
+                        "compound_code": "3624+VR Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3624+VR"
+                    },
+                    "rating": 3.7,
+                    "reference": "ChIJF2Dgfv8YQjERfDtZ8bjXv_U",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 10,
+                    "vicinity": "146 Duy Tân, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0562818,
+                            "lng": 108.2086158
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0576500302915,
+                                "lng": 108.2099781302915
+                            },
+                            "southwest": {
+                                "lat": 16.0549520697085,
+                                "lng": 108.2072801697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "Công ty TNHH Cơ Điện VSE",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 720,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/106246469456763912588\">ky cao</a>"
+                            ],
+                            "photo_reference": "ATKogpfVIBF7ZDKZvX5yGc9HJrA3uNx4M2-fTeYXIEnxouKxOFugPXjbSv4_BQiHn9T__XXb5Zn9NjUyZLiHJISLkKpU_0wDZj_sk9DilQcJPLhmlI_nHPce7GtKWuQgu0_DhFzOz7jFM8T_u_I8xAq2A_jUEb68oiixprRTU-Pg6N3RSMoO1jQz5YFmgPeAOGquSSm0dganKKmMXPYadbM6PZGEGU1oeIXxWRZ0jsC12fsZgm3pfvBFQmw4bbrL1cRfX3U-eBmKPKlsCpkYwYmc_BSesu8xOb6QU2ba5YAHY1MFaqryWdKdbQKJ9dMTAS9SxD1EpFAvmkBS8zPLhI0gHxprdU9dLS1lLFV9Gz1zxxshuoV4n9N-i9GNiNzQPm8So9WAWMf5rLgLH9Mrw-ARv7Lb81DKf3nkhKw_gn86F8wDSijZw4xQXyP0wO-CpQN4VdSABvWz9FGGVLekUZQSxQ3RNeCb9dGxBOiQvePuzKwZr404WxqiHDn9JlZZIhfziRTq0e8_L8Rx1MRFrvVH227vfg82tnVSvk8ch-VuI_ZC15mV4kx7tODrESNuj6lvVyuSHmXc9qPLacbQM2HbBd7JJHB96SPC7drxrSC4zGVf6LQOYKnZ3luKCJrS99IihFsWvqIF",
+                            "width": 1280
+                        }
+                    ],
+                    "place_id": "ChIJwZtYI7cZQjERpmAUlNpbtUA",
+                    "plus_code": {
+                        "compound_code": "3645+GC Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+GC"
+                    },
+                    "rating": 5,
+                    "reference": "ChIJwZtYI7cZQjERpmAUlNpbtUA",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "store",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 1,
+                    "vicinity": "342 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0519867,
+                            "lng": 108.2088701
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0533412802915,
+                                "lng": 108.2102618802915
+                            },
+                            "southwest": {
+                                "lat": 16.0506433197085,
+                                "lng": 108.2075639197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Công Ty TNHH MTV HOÀNG MINH KHANG",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4288,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/109420395450001810728\">Công Ty TNHH MTV HOÀNG MINH KHANG</a>"
+                            ],
+                            "photo_reference": "ATKogpcbCC2sC-4Uh5lQ1Q8f7v1ufMHy696qViSfXWkw9-dTZBO_ezfGh326jfzU3N-PndZnnO7vGO-PzHIedR5a6Kx5OncEhigUvgV7fMW7gk3g911KeuPE7dr2LXHT4XyVGo9Rqtq0RE0DBZJ3qrEgHECerjNf0Mop8HFJlbFD4JCcr0GjiVb6N1F9CFYytrUj-pLxXcDSdclzBVBKQ8ma9PM8R9cRk-tL_qMvCuCeZiqhKLi31yj6Is1qzHduB4CBNZeGTGudaxFVnLjD80qfoh4VGXeQfUa6vSpoc-MffLIabQzEdm8uEQlt28dGbsWc6c-6Y1-AIkQ",
+                            "width": 2848
+                        }
+                    ],
+                    "place_id": "ChIJ8_W9kbkZQjERtt_V9ZcaBF8",
+                    "plus_code": {
+                        "compound_code": "3625+QG Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3625+QG"
+                    },
+                    "reference": "ChIJ8_W9kbkZQjERtt_V9ZcaBF8",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "vicinity": "10a Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0544068,
+                            "lng": 108.2021667
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05574268029151,
+                                "lng": 108.2039483302915
+                            },
+                            "southwest": {
+                                "lat": 16.0530447197085,
+                                "lng": 108.2012503697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+                    "name": "PVOIL CHXD KỲ LÝ",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 2048,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/115138537096223120583\">PVOIL CHXD KỲ LÝ</a>"
+                            ],
+                            "photo_reference": "ATKogpesJkOZrHsFIcNqUCnSzoUsWcqjPI39iNeLmCEPRf0N4NcoQhDJ35An1x3Wj4sXgc77kn_XPErnSN_DgkAMAGgaDJ5wtKhW-mFl-8IzyLjKS0M6JTBM1sdVOj51X2pKKvWoMxx6pRpjV-XibMBzzDlwEVVcpNOvShGOZpOZ4TsOwB7s0Q1SRdyYVGnzkQTziOmzTySwtECQrYsnvilRaPMDVQ6o79U69xJI7SbtEVYDWBwlSwDkq2knRUMGE0vA4dLG9IONhhlbcXUzfhpgRyIyKPELK9eqHE670jAgcK-lbg9Wy8RfDQNsZ0j5RIW75FbThrvaka8",
+                            "width": 1536
+                        }
+                    ],
+                    "place_id": "ChIJA4mKG6fdaTERFi2pORxmoVQ",
+                    "plus_code": {
+                        "compound_code": "3632+QV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3632+QV"
+                    },
+                    "rating": 2.5,
+                    "reference": "ChIJA4mKG6fdaTERFi2pORxmoVQ",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "gas_station",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 15,
+                    "vicinity": "Thôn Đàn"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0544068,
+                            "lng": 108.2021667
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05574268029151,
+                                "lng": 108.2039483302915
+                            },
+                            "southwest": {
+                                "lat": 16.0530447197085,
+                                "lng": 108.2012503697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+                    "name": "PVOIL CHXD HÀ NHA",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1536,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/109648251024323789573\">PVOIL CHXD HÀ NHA</a>"
+                            ],
+                            "photo_reference": "ATKogpfkfF6CkYBsfqG2YPCvwZoOsMijwU6smwZeNs6xACrzmrAkp0YXgJxpuDthotx2hEuB1HEFjYnnoPXSZoFLPD1LoKIAgkap9KPlF2jojLFxYpZg-q5jdPm9Qm7LI8LhpYmPXMlhsPjMtCu5-6X0THz-EBmYi-xyTLE1B7uAjznXT2WlTYXbG3jCxRhSB9QcjXYRpYZ0fV6fIbWgmuBkr3ohFbq-lVERvKuINvJxTqras8r0fRE0qvaQgemg5l0BolIiZyebXrTBWalROKzBR_mjqujA7fn8p5G58YcRZqfu_QlUs9XsC5B70jLMwAswWvBwT1Wuhhw",
+                            "width": 2048
+                        }
+                    ],
+                    "place_id": "ChIJES4piDT_QTERFDqlU7kGp4g",
+                    "plus_code": {
+                        "compound_code": "3632+QV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3632+QV"
+                    },
+                    "rating": 3.6,
+                    "reference": "ChIJES4piDT_QTERFDqlU7kGp4g",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "gas_station",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 9,
+                    "vicinity": "Thôn Lam Phụng"
+                }
+            ],
+            "vietnamese_restaurant": [
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0623766,
+                            "lng": 108.1917233
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0637229802915,
+                                "lng": 108.1931580302915
+                            },
+                            "southwest": {
+                                "lat": 16.0610250197085,
+                                "lng": 108.1904600697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "Khách Sạn Đại Long",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4608,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/111736748426755205249\">Khách Sạn Đại Long</a>"
+                            ],
+                            "photo_reference": "ATKogpd9J7PNCJhSZJO074A6CJODu0m5UbOiHiaCXX2gyB4-yzp86An0nZzMsz5Ds7xG8mkDGm24esCPn7-GzM2ShhDmlncaKQQJdEY_ZjfV_MZ4y6xEeGlPKSoy08p_ojCTl0A5pfUfbimKEZ1rbbVSiw1HTy6veejGzy3NAot_t-Qciztv2yfGc83gphq6KMV5SgxcrVlkNF3YoAk9wwF0vUO6x8K0BWD_179Yf8WznYmRCnbpiK6uAhktrqmSuQv0_XbmzEj4K_jwYEWNjzjgC6aJCcgfbpl_Hk7WYc5X-UNfN4EtFZkKbKkPKdwVqNdRSXoNUBPycpo",
+                            "width": 3456
+                        }
+                    ],
+                    "place_id": "ChIJWVl1NFUYQjERl2v9iNV-6F8",
+                    "plus_code": {
+                        "compound_code": "356R+XM Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C356R+XM"
+                    },
+                    "rating": 4.1,
+                    "reference": "ChIJWVl1NFUYQjERl2v9iNV-6F8",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 203,
+                    "vicinity": "190-192-194 Hà Huy Tập, Thanh Khê Đông"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0524174,
+                            "lng": 108.2102646
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0538179302915,
+                                "lng": 108.2116481302915
+                            },
+                            "southwest": {
+                                "lat": 16.0511199697085,
+                                "lng": 108.2089501697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "Bamboo Hotel",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4032,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/103304380016659288713\">Đăng Báo VFC</a>"
+                            ],
+                            "photo_reference": "ATKogpfVey08iEpHpj0FVfC45b4fYJU1tUfPg_uYl1ly45UV7i4ytj5XtMf8IuaL55IoveOxsQ7qJ3Osia2RzC2Ei3JVAndBvjwTEuHVWcUhpRQyeHRQnZdtZw1ymdJ9rlVN7j6YjlfmLxjQgFY7bPDuaCBdx32-WcH9KC1wB0-HQ62ScXzkmPIBZb5-28xYkBZ1qY3Hs4w6MqDbPAA5phjUJFLOYw3S2CsqhVaX85Io76BTszaJ97qfwAm8DQu_09eF4azf3gHLBEnqES1eGzQg-g6HHhfJREaYDyVgw8oAPJL5BurdSHnRtg1o6fihNKPK3DKlwctpa6W7YBPDX-YF6UB-DJk4FC8fPivtZDCFjg4qyYYse34Q837Dxj1-ijyhgbKJ0Do67v6unKrO3kVxuWtMxI8iyOcG9VR7Yjm76Ok-t1ihCc4LgN5FTU8skzT3FQ68nU120hcMsGM27hMbaIZdX_T7ff6dcHxc3Ek6Lvh5GWAhNrNtfDy4Jmk0WUctHLpVhRym2Udb18EYX1tIFOara9yCFjEPj-3l3khWv7OOcZ6up24lEd5utyeghonP1gbEA2INZQpqir-35wiiO-Nm7yFj5E7DAw63EvKgOPXDT_3__tEQk7c0yDxRXgwq_rsqbQ",
+                            "width": 3024
+                        }
+                    ],
+                    "place_id": "ChIJK8zax7kZQjERCiWaW3KLyns",
+                    "plus_code": {
+                        "compound_code": "3626+X4 Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3626+X4"
+                    },
+                    "rating": 4.1,
+                    "reference": "ChIJK8zax7kZQjERCiWaW3KLyns",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 197,
+                    "vicinity": "418 Đường Nguyễn Tri Phương"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0655035,
+                            "lng": 108.2012611
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0669057302915,
+                                "lng": 108.2026063302915
+                            },
+                            "southwest": {
+                                "lat": 16.0642077697085,
+                                "lng": 108.1999083697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "OYO 265 An Thinh Loc",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 480,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/105308650230759400671\">Trương Xuân Thành</a>"
+                            ],
+                            "photo_reference": "ATKogpesNNKMa-hrQQ17W1typ8WuxAAbusK7gSDL48LUCo9xUZIQVtA5YpXeeru4TptovXCmL7wW9TkuVIX-zWleGDTB3EO1RP1Yun7uQGrIKNrZonhD0NIM7uNpmDUAOXXVPbZT_CCEq9N49mzbXGga0wKckb_tEoyj02Os-VN_S6WK8uDYe2b8pJwZR5-et0bGdqGfU7Jcd3RJ2IDTkL-yofEJo8gvPMv56RIyCjkt_OW0zKQUWSJ5hr-GEj7sni51zTxG3Ac-3ikdkEj_MFDdG9qgvXYq54pCsQdNwvEoSIaOdZUc15ppg2rOdjgTVsx94B3rgPurt2k5soNLCBZ58y4Suxznefe6U69LvYiKM7x5X2kWVckkhXlYOBE3tCshQCXbTUTBJEDPJIwJAds4gZw-CUyvN7NZpgqL4W7hYznzY1LgXqGV92Gq5oXU-NDVyTcu6FncqBdbBrmOAlK8WiPXqqbU2nine-3KSZikLiIpTwU45DP3-L_TxsDh-TSoxx23eRIitAuJHyAd1W8zJZ7FZRQ8523mmY-8kskws9Oam6MiZKA2XlGC6jEnXu1FUh6a_ySda844eYX8H4AZGvaaJ4PuM57Zds7uu398b9M1DSOJQvLV8ldrROqi55E24we3bw",
+                            "width": 640
+                        }
+                    ],
+                    "place_id": "ChIJ1Sqp6YQZQjERMaeRJ8djNTc",
+                    "plus_code": {
+                        "compound_code": "3682+6G Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3682+6G"
+                    },
+                    "rating": 3.3,
+                    "reference": "ChIJ1Sqp6YQZQjERMaeRJ8djNTc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 45,
+                    "vicinity": "57 Điện Biên Phủ, Chính Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0440841,
+                            "lng": 108.2097487
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0454150802915,
+                                "lng": 108.2112236802915
+                            },
+                            "southwest": {
+                                "lat": 16.0427171197085,
+                                "lng": 108.2085257197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                    "name": "Nhà Thờ Giáo Xứ Hoà Cường",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1153,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/117091937823880650178\">Nhà Thờ Giáo Xứ Hoà Cường</a>"
+                            ],
+                            "photo_reference": "ATKogpeBlBvI4MRFTxre87srtGt3kh5IvSzFsWK-IsiBcBWNaosrTbcyNDOBtn1P6Tt6x6BzmuypZVkVL7aRhyMix4VDHJHVLeeL8CD5chOZTGdHU8B5rlsyzAKADNw6EVGulTAxKF3hJ1DkRuxUv0tzSlujBiaoaCmQLxNjF2tQHD004ejoTi5x6KmJxS2OI0b_dZyHUIsAMBF3CzNS6WyD0tfwfbkwjojRLaL_hu-b9-kSDOvqihfUPdhXOzPKLLZIOHW0Df3bR4oNRskEQB8j46rrIfENbai_pdhbjhUyL1avt4GUIFoQv2plsc3n67qeavsgZQ-cEIc",
+                            "width": 2048
+                        }
+                    ],
+                    "place_id": "ChIJBUGlQb4ZQjERT8HjiqufUcc",
+                    "plus_code": {
+                        "compound_code": "26V5+JV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C26V5+JV"
+                    },
+                    "rating": 4.7,
+                    "reference": "ChIJBUGlQb4ZQjERT8HjiqufUcc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "tourist_attraction",
+                        "church",
+                        "place_of_worship",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 247,
+                    "vicinity": "150 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0515234,
+                            "lng": 108.2114104
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05273963029151,
+                                "lng": 108.2132146802915
+                            },
+                            "southwest": {
+                                "lat": 16.0500416697085,
+                                "lng": 108.2105167197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+                    "name": "King Garden Hotel Da Nang",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1920,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/117750095824065357793\">King Garden Hotel Da Nang</a>"
+                            ],
+                            "photo_reference": "ATKogpceSqVh8Yi_M4AsSstUcFtr-VBgc8U0esQGI7YkfThRPWVBZA-_bFsPliu4ceGAF0KGgRvFq8CxERPszkztZ7D8hK5Jx5r_xarUrr_rcEmWiuqfM_JU1fu2cs7TBKWURvXHDm75J75IhEfmffSafxk5nTAar82Fzx3HjtNbhROII2wfwwY-sC2uZlgFItT-RLLUHM_G8e393mDXWfsNA0sCA8Jpnkfbro_kQY93q6cNVd8GbSMUHHFCPvtaSPI6wLSLqMA5Psdg38DYjBlgbOIimt--8aftoTch3OuDQ4zcmWZP47ikud-wcbuxyh7AbEsdFX89nbE",
+                            "width": 2880
+                        }
+                    ],
+                    "place_id": "ChIJP_viRLgZQjERu4_Cb1lN_1Q",
+                    "plus_code": {
+                        "compound_code": "3626+JH Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3626+JH"
+                    },
+                    "rating": 4.2,
+                    "reference": "ChIJP_viRLgZQjERu4_Cb1lN_1Q",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "lodging",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 67,
+                    "vicinity": "456A Đường Nguyễn Tri Phương, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0611226,
+                            "lng": 108.210807
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.06248098029151,
+                                "lng": 108.2122249302915
+                            },
+                            "southwest": {
+                                "lat": 16.0597830197085,
+                                "lng": 108.2095269697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "MEGA Technology",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4032,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/110533356443249169278\">Tuan Huynh</a>"
+                            ],
+                            "photo_reference": "ATKogpfXqEr6D_n_7bqN7vZ8pmeLnzNBZmJi-p0-E-froBEP-wn7fKyYccVGAZjfB-p2EnQtw0R6OzSAtWk4xrgiWp5o8s6lnqKuyNjvFRbY5XV79mI3mO1Ih4l8FSCkopTdQTmPX47uuEjL2WT0zVFK7jL3gER7Quqioey5sEE0lWjkt38IG6s-woLOEQGzjLGfJFT_aouhcvCWKmseyCZUvkoSvmLcUfFu5eSrr_xKYqsatpVV--qkdBrJfJaNTmZG0mXJvlfJ2YkV9l1jy2Qkyt8ovhchaQzQoApTc0mwLNDeJQ1yq06LINXQEiKxxt-c5s5MtaQ3tZq6Q4Yv-M6wVoqP_EPKXcYYs9XV0KLQHsIAQcPfUTEEZpCPLOStG0LblnGErk9ehjhVfV0NkjRVlaN-LFgjEJ6FCRxIkF5398KD-KN_kmpG5-lgpGPn3bb4qfduULMOW6BHCkiSJU-xrHmZDLSLb_yOLIBjQDVknZcEhyH11BDSwrEpF17WAREBWakV38sMS1CmcipFHi49ciQV2Kqf0uPj738Y6ejGZSGT7-ehhN87voK-WafEnAfH0RF__fL-1SbzTcfNTBPJzfk5Jxf1NxuYg_CzVvxSRUDBvYUna57qoLsLHvAMhWUph52M_tBz",
+                            "width": 3024
+                        }
+                    ],
+                    "place_id": "ChIJWXqoGbQZQjERXGq0MXhAZTE",
+                    "plus_code": {
+                        "compound_code": "3666+C8 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3666+C8"
+                    },
+                    "rating": 4.5,
+                    "reference": "ChIJWXqoGbQZQjERXGq0MXhAZTE",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "electronics_store",
+                        "store",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 372,
+                    "vicinity": "130 Hàm Nghi, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.055376,
+                            "lng": 108.2086586
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0566892302915,
+                                "lng": 108.2099227302915
+                            },
+                            "southwest": {
+                                "lat": 16.0539912697085,
+                                "lng": 108.2072247697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Công ty TNHH Nha khoa Rạng Ngời",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 3024,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/104488134683538673547\">Le Hang</a>"
+                            ],
+                            "photo_reference": "ATKogpclShxTLUm-pVVomqVLyatQm9Aq0900ri0_Bhp2jCgOjMvgYhPWzHtTle77B26SWc-c0Jh8qsV7uv-KDB-GGo5ngtl1zQR6AR2BYbvyaC-a_YNCTeTsr-WarXKHN86qs97hmYfs1c0-CloNAOrwTNHm40EjFAkcq8KU0pBbkvSyBXJu8d5lex_doRzQzqQ8kPCu3iElfpqyCXsiRwxmwLtcQC3Nuc69IaCTN8rlO6_Npi5yXyvNLu3Gbq9XD20yxO_6bSBIKyFgoT8x_ZfDB61Dv0QxY_byeNoVxkenEDffPkHlmrxert-FW9i8jTfwdfM5wp7K8QlLrCnw5eGyMsbMGNTBFn4qNwPJYPAGoPZLe6_jbVpTuiM1rif0QHp2Q74th-hW20t6_yuj5xFdVdV--Eia9Sw0gQAfOwp2s1mWwYxYtR2ve8hGefIKUgH2uPGVi2XbS5Pu9liaDeLXF4AkfzHhxv1ZNTUM8ZgCsooTweIJdpYVoLBKWHBJXm55VpCpozoeDHRuADCQ7el9wNwYRVAo4CsQflPHw1sB5Brp67cIE5tPbgjbyDQ3okPuNh0WPVvdGmvEjuPoS3z4C2vhqbMJT3_R-a4geFmCO-_XKeW--PKmC8OHuPcH80AF-i6zJ-ai",
+                            "width": 4032
+                        }
+                    ],
+                    "place_id": "ChIJ86GUzLAZQjERV3wvEAkXwT4",
+                    "plus_code": {
+                        "compound_code": "3645+5F Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+5F"
+                    },
+                    "rating": 4.1,
+                    "reference": "ChIJ86GUzLAZQjERV3wvEAkXwT4",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "health",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 91,
+                    "vicinity": "29 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0553013,
+                            "lng": 108.2086607
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0566201802915,
+                                "lng": 108.2099382302915
+                            },
+                            "southwest": {
+                                "lat": 16.0539222197085,
+                                "lng": 108.2072402697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+                    "icon_background_color": "#FF9E67",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+                    "name": "Cafe VIP Vườn",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 3024,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/117024570654479050540\">Duong Duy Dung</a>"
+                            ],
+                            "photo_reference": "ATKogpevJPXTxbV29j65VUqmn0EMJq09J24M0UfR-omezebaAJ23eo9Yej0as90x1OR9GBp0VMjfSn_r-ACXw3DSHEYLgkMG94ESCO655H7xUQ7UcdDMSkldshJgvyNd4Tu_PDBLuTIxuuWBhwTAJiVE2H5uMsk-8XSdwnVa3OoCVfrVljiFAQSWRM55s-p2hYuAVS_tAi8sWTirdu866a6t4DgkKGQknGh1_PIP7FZISIQeAsJJv9e7FR8JwEh1CNdbLG6kDmlt7IMKy4Zfysy5Za0SclmavJzNIwm893eWs-hc_6q9sWLKLcPdz8WaeD-lwTxPiu7qhzOf4YJOlQGZzw4hQzXlrEKlQKrs_TZ4R6KxyQoBpJIJw2CY_X47GVRy7jptfX8bkTGXRQyUguYkAoWZb32zyUy2Vsv69lpzMh75gKDkTh-egwQ9kWfKVzesscR7_ZHPkmHMeXkyZoZeufNq0tODff4XUuPSr2WPVMnQ7aOit7xKAg4sISdfEI4zkFCKpRu5k-ygGRhTCK0YJevDNj__Ps5yMwATeOiVMdOPG6Jah_0Th28EBWun5qiThz_VP2KhYxjGJMwzP3W_U360EcbLVaqhpomn0zF9WTszg58VCk7UMXWKMw8mMmhZCptoqA",
+                            "width": 4032
+                        }
+                    ],
+                    "place_id": "ChIJPQw247sZQjERXlCopH3mlEc",
+                    "plus_code": {
+                        "compound_code": "3645+4F Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+4F"
+                    },
+                    "price_level": 2,
+                    "rating": 3.8,
+                    "reference": "ChIJPQw247sZQjERXlCopH3mlEc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "cafe",
+                        "food",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 461,
+                    "vicinity": "34 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0517795,
+                            "lng": 108.2092298
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0531220802915,
+                                "lng": 108.2105333802915
+                            },
+                            "southwest": {
+                                "lat": 16.0504241197085,
+                                "lng": 108.2078354197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "TRUNG TÂM HỔ TRỢ VÀ PHÁT TRIỂN CÔNG NGHỆ NAM VIỆT LUẬT",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 2232,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/116781917492290089641\">Xuân Dũng Vlogs</a>"
+                            ],
+                            "photo_reference": "ATKogpcimgK00Y7sA_uKx3ChEP_EPQ8ZHawZKESQj9R7jZrAx8YANJhzWJwRzgK0guTFYFslRbbeBt5FgZkQaFxvOO5VUS6HCczqiprJDsPp3iMNBHkiC18hnm7yPrFqGInNTb5I2u6qU_kSvzPe6vzY9WUEyKJUJMVMTULUXeADgtbJ4Hk4lLB3a7vvGgT56Jz28ZGlCDO-9JA5H1qbbRTCOEeMeSzPO5qqk2TraZi9xMS_4qHytdhBQLXJ4qF43Pw7NKg02V-dohvMQt8shpXFPr1QIx7yaeqIF98d7Vj_r7_b445uG8uwoF7TtGP4rBiSv0Il76Z1jiar1ClEvBeymutGQnAEK2yyu5Rzo-pLaKyvZjfXFmgNbmrOsoJmZst0_qIxLz2FA1lUY0oMPShGUzKUZul_fVoY6ObyrlvkegNDqU2NbV3OdPfiDnGCV34IkBKXMlaUhZiJUxoXZsuVLzwLHKJKZHvxe8f1EuCgmEgiS3bFP0UmRoipP8GxCIf2aYyHr5bK3_9CC6gTF1gCzd8UShrKrPpvHgnxHfJmVFCLZjA5_NdhxdttrUHjqdvgy4MGrROSzpblzqPQG_bX88RFRzOWg3-IvAvkXsSN4tSituzfgZ5VqWL5Ovk8mDkKnqZpog",
+                            "width": 3968
+                        }
+                    ],
+                    "place_id": "ChIJW4ekkLkZQjERyHcnavTVNn8",
+                    "plus_code": {
+                        "compound_code": "3625+PM Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3625+PM"
+                    },
+                    "rating": 2.5,
+                    "reference": "ChIJW4ekkLkZQjERyHcnavTVNn8",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 8,
+                    "vicinity": "105 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0568188,
+                            "lng": 108.2076285
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05815843029151,
+                                "lng": 108.2089287802915
+                            },
+                            "southwest": {
+                                "lat": 16.0554604697085,
+                                "lng": 108.2062308197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "Bỏ",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 720,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/103484893239571635435\">Thi Hong Le Huynh</a>"
+                            ],
+                            "photo_reference": "ATKogpduqWCyCGhOGyvZ0mHLIpTq7qvw2Hygpyeon-bVX5vMIznaxGe1-ZqIK71IBDXh_M32LjnmGeznPfnjivzZ29d1q_Mj4jTpPysCrbxzIpvidzKdIsrKgCMdE84-NIu2j6kO2RJ_ORoh6jhoN-MM5xWiRM4mXTLYeTE4q7PiKqiPM7q4n9aRA88V7jTU61xgMSqh7wzr6QZi-UboymZAVr80xftkRi5RfsSceBJcN8o4qbza3Rj-qZ9--kwcvW3rfSQYaO24Z4t1fwdoJJHPk05aI4tw6XmYMdrcZvbGA-BbcatKpgQxzJu5c1Y3RZRhUBg2ZpewG7l-GCvCwDYWWDQYeLn1dOs1NLm1-fRfPPEXnF5bDS-BHbv2D_Da0ysgs0KJHeKotoJ_NLqXoqY7DlrYpp7t1FUBC27WUzMc_IkNDPXkKFkx0xvM0dgtIxaFUMoOPqyX-RIhZOAdnrkVeYfFvQdbY8o-LQ20O5BeFVUWhBhGPjtzKixRtq5e0axX9MsWzkeDE78JTQ1Sb5eun_I5zCV63ZQ-b3pQpQesmCrkQEGmfBLxaxMAYN40n_vKycsLOEqP8PI9ewmevaiTormy9Ut6N-Spba4FSTLFscfd9CjiiTbd0dDx9vteLNh3Yd4WqA",
+                            "width": 960
+                        }
+                    ],
+                    "place_id": "ChIJHUNyKbcZQjERGlUejzop58I",
+                    "plus_code": {
+                        "compound_code": "3645+P3 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+P3"
+                    },
+                    "rating": 2.8,
+                    "reference": "ChIJHUNyKbcZQjERGlUejzop58I",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "electronics_store",
+                        "store",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 29,
+                    "vicinity": "152 Hàm Nghi, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0595999,
+                            "lng": 108.2070413
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.06097813029151,
+                                "lng": 108.2084905802915
+                            },
+                            "southwest": {
+                                "lat": 16.0582801697085,
+                                "lng": 108.2057926197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Chi nhánh Skypec khu vực Miền Trung",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 295,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/101711208304527043589\">Chi nhánh Skypec khu vực Miền Trung</a>"
+                            ],
+                            "photo_reference": "ATKogpfg27bUAD7MlGHfzK5AqeW6sRzIiuEKEf0OuHG_wtRC0fCKWAZU8v6TVRfF-SF1_Rb2Ht5T8K1zKMjQ7anTjuWc-TkJFqvscCyfpjvui6fXWNRSNpwkoZynhLG4eli-5Coy0a3Een_viBNFs5jBpRxxn2yEzYbwTvpNBc8iioAYoGnpkoe980BblOjQhpMJ-PaUeGzhkOEwyRwXDtjAgKG0-Xn0VQy0QHcA6P0JJy8paJ9VJL_Q1KKCxSGgynkeTRpy2JEILs2Zkbhe6DN3ZvhpdsesFyjZzXJ8QyprRXrdNSAYLKDcTIaFyBV8w-f38g02qeWsoLQ",
+                            "width": 628
+                        }
+                    ],
+                    "place_id": "ChIJp6mlWLEZQjERXCVgFNwuQUk",
+                    "plus_code": {
+                        "compound_code": "3654+RR Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3654+RR"
+                    },
+                    "rating": 4.7,
+                    "reference": "ChIJp6mlWLEZQjERXCVgFNwuQUk",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 7,
+                    "vicinity": "348 Đường Nguyễn Văn Linh, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0598851,
+                            "lng": 108.2053559
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0612610802915,
+                                "lng": 108.2067648802915
+                            },
+                            "southwest": {
+                                "lat": 16.0585631197085,
+                                "lng": 108.2040669197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+                    "icon_background_color": "#FF9E67",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+                    "name": "Nhà Hàng Cơm Niêu Hồng Phúc",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4912,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/105328425066026856645\">cơm niêu Hồng Phúc (Nguyễn Tri Phương)</a>"
+                            ],
+                            "photo_reference": "ATKogpc_AVZpM4v0CIjLVqls47rmEygGR0Q_c8zhD5o24-iHxuxjtE5TI0MS1IOK3EQtreWO-ujzPO5BaTc7QLqkVxB5Zm63K60NoKy4Wk2XieASAUy1Q8zJUVpCS7E0eWsxnuyfNQVEZys9ORDJTXcM__IYb6VCS3WAVq4ZRx3xXD-k41dArW_cYBkl7z_ROs4SndrNpUiJhY1JkJC1D0UNVyYq1tN7HnCX-_CwhAoniVHbJAaW3mRTYOSbGjHKZ2iWh2KstpnEsz2BFRO4mX9KqVCGGzGM9WdT8Ij_x1mvC8pVzKDA5iutNlLHn1_6Tx29pws3ACpWCt8",
+                            "width": 7360
+                        }
+                    ],
+                    "place_id": "ChIJAYkYfLEZQjEReED6J_FH7yg",
+                    "plus_code": {
+                        "compound_code": "3654+X4 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3654+X4"
+                    },
+                    "price_level": 2,
+                    "rating": 3.7,
+                    "reference": "ChIJAYkYfLEZQjEReED6J_FH7yg",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "restaurant",
+                        "food",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 1182,
+                    "vicinity": "166 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0568179,
+                            "lng": 108.2069352
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0581594802915,
+                                "lng": 108.2082689302915
+                            },
+                            "southwest": {
+                                "lat": 16.0554615197085,
+                                "lng": 108.2055709697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Go On Group",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "place_id": "ChIJE8tS3GIXQjERTxoxcBY9wpc",
+                    "plus_code": {
+                        "compound_code": "3644+PQ Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3644+PQ"
+                    },
+                    "rating": 2.8,
+                    "reference": "ChIJE8tS3GIXQjERTxoxcBY9wpc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 4,
+                    "vicinity": "19 Đường Nguyễn Tri Phương, Bình Thuận"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0601077,
+                            "lng": 108.2052221
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.06148818029151,
+                                "lng": 108.2066465302915
+                            },
+                            "southwest": {
+                                "lat": 16.0587902197085,
+                                "lng": 108.2039485697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Công ty TNHH TM DV Mỹ thuật Khải Hoàn",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 452,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/100196495819668541644\">Công ty TNHH TM DV Mỹ Thuật Khải Hoàn</a>"
+                            ],
+                            "photo_reference": "ATKogpcjfIfBwmPSkPgYlIWi4q4MVpCO2auMoFInsaWejB94V0XiB39xjnB01D1xsFLHsZaF1fRjHC8EKTaBlgxFtix69OZ53RBL1GVwB0qodfbxlxB70A-jZAKp3MLInK16LJzMVqkLbxA_vSeujcBZqCkmEmRc3pQRioaIm8XdwOof-5mQcGJ9Vhid0FWSrzReXUCZEppzljmCGE1XMPFbS3lv7NVONB2vmTPnu9Y8a2kgBo7F2ih3Rp_I-A96FZ2VMvHSmfqPoLShxFqMFGQTqLqNFf-EbnVMpBFLigTKSWkJd-JI1IZiEQmMTXaYT8qkRFu1iS6J7jg",
+                            "width": 640
+                        }
+                    ],
+                    "place_id": "ChIJiXCj1bMZQjERpsLNninE7ns",
+                    "plus_code": {
+                        "compound_code": "3664+23 Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3664+23"
+                    },
+                    "rating": 4,
+                    "reference": "ChIJiXCj1bMZQjERpsLNninE7ns",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "general_contractor",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 2,
+                    "vicinity": "162 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0536772,
+                            "lng": 108.2097399
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0550353302915,
+                                "lng": 108.2111470802915
+                            },
+                            "southwest": {
+                                "lat": 16.0523373697085,
+                                "lng": 108.2084491197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "Cửa Hàng Tiến Dương",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 2988,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/105491138651310684694\">Andy Dao</a>"
+                            ],
+                            "photo_reference": "ATKogpcptQxvWqhRULal8gK4hLCa53KLhEo7ohaUQEEJm5u-j2oHzoBi-PcnzohMA1TkIPl_lZniaMkY6WepaZb7Tbuksvs5D7jpz8vIJBpCf7piTyMrjo-_WJhy_e89tVobzr3ttMTp6aSfQk7DfbPQUrKh6OiUpDqAATG4_T6BTo_nQzsm6ujyG6je364m_h2oHF-0-hlq_sWpchFNUVpDakxwudo9qn8kFxCrJPivE7YN7e03w3z9fv5PY1YvorEF5vikbCpMmQWAupC7AwWR7BNR2CCt_eIij4r4BN2gkWejTrHO-JI_4Qm-ey2lkPHstgm004fE1vV3ggPQI0-Zvf8rfY-_g-p3zIXLUlggr6VNmH6jc_yZl3jdPOxT9EgoR2cVny2_GbXHz2oQYEeLIs6TRafyyjxD80r-4HC8bFGMK2CsVJWWLxvzafwmorzg4vA6j7db1WsjrX6eEikbgfbKAR1KB1qaQN8YyEr6cGq_vFZ2LIlvxYkiWn1bw5259ePXOrUZ0kyiZ3gA6oxQAIxJqLBErFvxIPsHxe7rXFLxubzuKvSznfsGimFJ0o2P4dJy90sxppeGgksRNfEEUeHwDn4bi5q8V9X0IE4-EEEB3XHoT-GvB5I-TQ4oSP4by951yw",
+                            "width": 5312
+                        }
+                    ],
+                    "place_id": "ChIJi25h37kZQjERgyhQ-Lzgwgs",
+                    "plus_code": {
+                        "compound_code": "3635+FV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3635+FV"
+                    },
+                    "rating": 4.3,
+                    "reference": "ChIJi25h37kZQjERgyhQ-Lzgwgs",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "store",
+                        "grocery_or_supermarket",
+                        "food",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 6,
+                    "vicinity": "406 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0521561,
+                            "lng": 108.2070344
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0535102802915,
+                                "lng": 108.2084259802915
+                            },
+                            "southwest": {
+                                "lat": 16.05081231970849,
+                                "lng": 108.2057280197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "DN Quảng Cáo & TTNT Lê Nguyễn",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1342,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/116934970612640078728\">DN Quảng Cáo &amp; TTNT Lê Nguyễn</a>"
+                            ],
+                            "photo_reference": "ATKogpeLodgqmO9ROOBE6xZBfRmq7WUB5e04JvoQ5Oyx-lstvdScrlnEso2tNz_Brt5Cw75wEDvnmShFGGRDd7vIYoeql6lwnTewJh7mEqO6e5yyEpX2UHAsnMaz-WIBPu_xk5zVhfvGF2PiLKgR3wMp_bgpk2mZlbqOvP6w5QxRvZm8GgDK5q52EwvRcKMQ-rWT_7iTOPi4MTRy9_vrii3DB4yrWKdXXA2wpCE8NnDwzw3kPg2z8aVNdryWrhpiiYo31iSXX455CpNDRRw10IBJK022CZcMzwArWfd82iGLPmSaNCKK1JF8t3X3vZS86ai5IQmkN_UBX88",
+                            "width": 2566
+                        }
+                    ],
+                    "place_id": "ChIJF2Dgfv8YQjERfDtZ8bjXv_U",
+                    "plus_code": {
+                        "compound_code": "3624+VR Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3624+VR"
+                    },
+                    "rating": 3.7,
+                    "reference": "ChIJF2Dgfv8YQjERfDtZ8bjXv_U",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 10,
+                    "vicinity": "146 Duy Tân, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0562818,
+                            "lng": 108.2086158
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0576500302915,
+                                "lng": 108.2099781302915
+                            },
+                            "southwest": {
+                                "lat": 16.0549520697085,
+                                "lng": 108.2072801697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+                    "icon_background_color": "#4B96F3",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+                    "name": "Công ty TNHH Cơ Điện VSE",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 720,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/106246469456763912588\">ky cao</a>"
+                            ],
+                            "photo_reference": "ATKogpc3k3m_TtK2uPdu1AMJoxuFhx8uxTaR6SOeqAqR3UAh0GvqFLPy1CyjnaxPd0PD3lG2hpsrfFjYa7hi2g-HVfLGp5hDWMckb3IIzp50HdZgH8fikbnjVcb_FpAvrLCsa17KsSvtxvUL36JY6NmmTKUW0v9_oUWZTeMWFsXHKKURHwr72QIUMHp0DRta9zkkYnLKY2BL3SoPBJ-CKadbxBCFChhynL0qp-J-TzCJxFu2RWl7IQVQxCQXDPgMzsAysSyYr4Y7pN0NomKwCUbLhmBXcZcrr6JvpoZFgOBO4sz9g_-l7b02BFZE9Sxse3o25XqGT3xpLfCRI2AyrRgCcW9zeBHVuwIGxgNvpZ8WxbjAGG-0p_Pp6a1hU8qkpZnltxDWooqEtL7zmQY7M4A47WhxYS8tz3hhRVPHPU_a0rNkXrA-CqzVuDbCB5QA6g3n6LLTJbgZwLmxk2LZnVPBNKoZCYN2raNba4dJfTMrH5n7MEc0jY88P47RrNd_aJbr5ZCv4xVBYKOeiDDWrRGzzT9GRMA3s4QoorXWBso0MIG0zEJd1RBXLQ9F4aQoaogpmIFpRETi_Oyn2feKNW-8ybIW1Q1etmuG9736z8wDQGpBh397whuJVOWlpYFs9C60BCJkA61v",
+                            "width": 1280
+                        }
+                    ],
+                    "place_id": "ChIJwZtYI7cZQjERpmAUlNpbtUA",
+                    "plus_code": {
+                        "compound_code": "3645+GC Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3645+GC"
+                    },
+                    "rating": 5,
+                    "reference": "ChIJwZtYI7cZQjERpmAUlNpbtUA",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "store",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 1,
+                    "vicinity": "342 Đường Nguyễn Tri Phương, Thạc Gián"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0519867,
+                            "lng": 108.2088701
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0533412802915,
+                                "lng": 108.2102618802915
+                            },
+                            "southwest": {
+                                "lat": 16.0506433197085,
+                                "lng": 108.2075639197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Công Ty TNHH MTV HOÀNG MINH KHANG",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 4288,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/109420395450001810728\">Công Ty TNHH MTV HOÀNG MINH KHANG</a>"
+                            ],
+                            "photo_reference": "ATKogpdzbV-9f-aj__uFMgMpF4ireNUHaxFeC_obKaGcEay14VWgWwcJkdQ_l7EAjuR_radEyIdktf7762ZFfD2wfOrboBWGFWKyaQAvIKqREfub2JL7mN-lZN08iwnvo8jGQeuNo2_FJlnapYqmREJTcWH-dWsJXb3krlqA1ZJbB7M1rirY8ioc9ui3runugI27Y6a_ml5negppK-VW4mYEmsaKlejlLlqZhiXJg70oFYK8eiv31xAIO0g9Iz4cl6eDFVpNCOgGbl0lckWIazExByV6ibSU-UK2ByB20-6Fk9U2q00jUt0t7AFxKsfS4QvP1zJsz-Ctg2U",
+                            "width": 2848
+                        }
+                    ],
+                    "place_id": "ChIJ8_W9kbkZQjERtt_V9ZcaBF8",
+                    "plus_code": {
+                        "compound_code": "3625+QG Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3625+QG"
+                    },
+                    "reference": "ChIJ8_W9kbkZQjERtt_V9ZcaBF8",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "vicinity": "10a Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0544068,
+                            "lng": 108.2021667
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05574268029151,
+                                "lng": 108.2039483302915
+                            },
+                            "southwest": {
+                                "lat": 16.0530447197085,
+                                "lng": 108.2012503697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+                    "name": "PVOIL CHXD KỲ LÝ",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 2048,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/115138537096223120583\">PVOIL CHXD KỲ LÝ</a>"
+                            ],
+                            "photo_reference": "ATKogpeElZS-je04j0nzUt0Aoi8FbibeuTAMjmfipJIgqHfQRI9f05qGTXJhe7LNGdG0O97p5D1NZFcMxaaRovo0N_tPOTdcnypNzFD74_MMz06X6nhigRHhpEcUeFnUrqNcTif0bLMZ-OxdyRg8R3UwQtPtVrDUzOVZFpg4gGIxVpLEEPFW3E_68FdiIJpQNwQUP7rre9bgVDjFEFF_N3jZ13o89G4v94HbxH4f9COWbUHVAgWgdvA_aCzu_fS30Wk6v_A81kH-W1pKJMpczPXzbyysalZEaG_dRos8sA5_nGUyurP0UyDJ5E14NXNFdPbz_tjxwEIo0_Q",
+                            "width": 1536
+                        }
+                    ],
+                    "place_id": "ChIJA4mKG6fdaTERFi2pORxmoVQ",
+                    "plus_code": {
+                        "compound_code": "3632+QV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3632+QV"
+                    },
+                    "rating": 2.5,
+                    "reference": "ChIJA4mKG6fdaTERFi2pORxmoVQ",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "gas_station",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 15,
+                    "vicinity": "Thôn Đàn"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0544068,
+                            "lng": 108.2021667
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.05574268029151,
+                                "lng": 108.2039483302915
+                            },
+                            "southwest": {
+                                "lat": 16.0530447197085,
+                                "lng": 108.2012503697085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+                    "icon_background_color": "#909CE1",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+                    "name": "PVOIL CHXD HÀ NHA",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1536,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/109648251024323789573\">PVOIL CHXD HÀ NHA</a>"
+                            ],
+                            "photo_reference": "ATKogpegdO3DOTialTGb9JoW9xpHmkJs2J3d0hxKG5wDUxRjQSaz7_vsKaWab5ZsvCRG4IIpSqOLJHU_YP8xOy5JMDwgE_YvedTGspYZIN8g8PSnby-ziILxzKSPTx1LEhhP6pc5vDcacspKEg4d-zLuQMfkTzETwlIz1t_MqocvrU_WalxtW29M5r8Dwmd56CwETSD4siFubCP70u-Dp0sHQZF7pyFbPQKI3EI3lgxmurHY6RtT1pNPFEZh2jd-ghHb9Ca0F7gqxhFnNYL9Y91d4z1eVn51Mvi4Rq7icguW-ZSJBcGD1iDWmDggX5I8fEADvLrRf0RNzHM",
+                            "width": 2048
+                        }
+                    ],
+                    "place_id": "ChIJES4piDT_QTERFDqlU7kGp4g",
+                    "plus_code": {
+                        "compound_code": "3632+QV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C3632+QV"
+                    },
+                    "rating": 3.6,
+                    "reference": "ChIJES4piDT_QTERFDqlU7kGp4g",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "gas_station",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 9,
+                    "vicinity": "Thôn Lam Phụng"
+                }
+            ],
+            "tourist_attraction": [
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0440841,
+                            "lng": 108.2097487
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0454150802915,
+                                "lng": 108.2112236802915
+                            },
+                            "southwest": {
+                                "lat": 16.0427171197085,
+                                "lng": 108.2085257197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+                    "name": "Nhà Thờ Giáo Xứ Hoà Cường",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 1153,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/117091937823880650178\">Nhà Thờ Giáo Xứ Hoà Cường</a>"
+                            ],
+                            "photo_reference": "ATKogpeHmoGJOhaXTBUAxCr_shwaVMGRyzIUfMR-trKVErNZDsPqyRuGq2w3sPTeDmRcruN0ztKX_J0E2mdbg7Dusp4bVqkRSvJtqF5OTUqlpl5jbKRgKH_uzaHLHnTO_LuM2SigS4z5XEqMlcc5898Z7jWm5omanFrdhxHSP3LP-YqTuBzlHA2LOHoK2q56Vkwyp3bsb_oPEdp7uG9PEQjb26gtCtg_Hq7Wdy_EY-oWSaRhlkllwQRREuimXNjpOB0VrSMohIMMpNU6FPZfdcFOUB2hRNN9N8h_10D426mfBDsD7v687ZsPvtbaOHMfZ9zhOMjCFB0w5eE",
+                            "width": 2048
+                        }
+                    ],
+                    "place_id": "ChIJBUGlQb4ZQjERT8HjiqufUcc",
+                    "plus_code": {
+                        "compound_code": "26V5+JV Hải Châu, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C26V5+JV"
+                    },
+                    "rating": 4.7,
+                    "reference": "ChIJBUGlQb4ZQjERT8HjiqufUcc",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "tourist_attraction",
+                        "church",
+                        "place_of_worship",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 247,
+                    "vicinity": "150 Nguyễn Hữu Thọ, Hòa Thuận Nam"
+                },
+                {
+                    "business_status": "OPERATIONAL",
+                    "geometry": {
+                        "location": {
+                            "lat": 16.0660916,
+                            "lng": 108.1991488
+                        },
+                        "viewport": {
+                            "northeast": {
+                                "lat": 16.0672555302915,
+                                "lng": 108.2005090802915
+                            },
+                            "southwest": {
+                                "lat": 16.06455756970849,
+                                "lng": 108.1978111197085
+                            }
+                        }
+                    },
+                    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                    "icon_background_color": "#7B9EB0",
+                    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                    "name": "Dịch Thuật Công Chứng Miền Trung 247",
+                    "opening_hours": {
+                        "open_now": true
+                    },
+                    "photos": [
+                        {
+                            "height": 3024,
+                            "html_attributions": [
+                                "<a href=\"https://maps.google.com/maps/contrib/104768678249948095894\">Dịch Thuật Công Chứng Miền Trung 247</a>"
+                            ],
+                            "photo_reference": "ATKogpeykKhkT17eGBPAVpcLmDyLY9cPNHex94lmM1r8DpnXzz90UPaNYxmEtPcBs--X_EaRpBpPyZpJwRe2MLJ365klNt5sOl1wwmijlyLMwjqpLsB1PyCteEVQkgOu0wdDp6qDfbWSD97bstRoAkB9-aCjHTKTCVCpPSjYPliR2xC1jBJPoUoEGduYp79iwr5caK6SyQ45FoM1_qK7LWaP0AXqTJCZ9v_ZeKfJn_u77VPaR4A7603tdZ4lvXsMVS2VYjl6svALPAEtr3ahOIveJ0B9jdKaD5FNqudFdLk3iSyAXr1zWxn1l4EnNspwprbYiZlWJPSY9LI",
+                            "width": 4032
+                        }
+                    ],
+                    "place_id": "ChIJxR2USegZQjERSUEqi77jEB8",
+                    "plus_code": {
+                        "compound_code": "358X+CM Thanh Khê, Đà Nẵng, Việt Nam",
+                        "global_code": "7P8C358X+CM"
+                    },
+                    "rating": 5,
+                    "reference": "ChIJxR2USegZQjERSUEqi77jEB8",
+                    "scope": "GOOGLE",
+                    "types": [
+                        "tourist_attraction",
+                        "travel_agency",
+                        "health",
+                        "point_of_interest",
+                        "establishment"
+                    ],
+                    "user_ratings_total": 322,
+                    "vicinity": "K130A/18 Điện Biên Phủ"
+                }
+            ]
+        }
+    }
+}
+
